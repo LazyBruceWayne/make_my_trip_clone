@@ -1,4 +1,4 @@
-# make_my_trip_clone
+# Make My Trip Clone
 Find best deals on Banglow,Farm house,Hostel,Flats,Row houses,Warehouse and Office Space for India &amp; International.
 
 ## Screen Shots
